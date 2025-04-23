@@ -49,4 +49,4 @@ g++ -I include/ yourporgram.cpp -L. -lmin2phase -o yourporgram -Wl,-rpath,.
 
 # License
 
-This software is distributed on GPLv3.0, more information available in [LICENSE.md](LICENSE.md).
+This software is distributed on MIT, more information available in [LICENSE.md](LICENSE.md).
